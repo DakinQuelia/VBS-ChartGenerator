@@ -1,0 +1,15 @@
+<convert2exe>
+    <path>C:\Dev\charte_vbs_v100\charte.exe</path>
+    <uacLevel>asInvoker</uacLevel>
+    <icon></icon>
+    <mode>cscript</mode>
+    <silent>no</silent>
+    <unicode>no</unicode>
+    <build>32bit</build>
+    <details>
+        <version>1.0.0.0</version>
+        <description>charte v1.0.0</description>
+        <productName>Chart Generator</productName>
+        <copyright>Copyright (C) 2013 by Dakin Quelia</copyright>
+    </details>
+</convert2exe>

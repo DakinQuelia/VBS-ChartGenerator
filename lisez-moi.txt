@@ -1,0 +1,15 @@
+=== LISEZ-MOI ===
+
+ Nom du script: 	Chart Generator
+ Version du script: 1.0.0
+ -----------------------------------------------
+ Auteur: 	Dakin Quelia
+ Courriel:	dakinquelia@gmail.com
+ Site:		http://www.danielchalseche.fr.cr/
+ -----------------------------------------------
+
+Cette petite application est fournie gratuitement sous licence GNU/GPL.
+
+Vous devez, au moins, citer le nom de l'auteur originel si vous diffusez cette application.
+
+Merci à vous.
